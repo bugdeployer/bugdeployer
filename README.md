@@ -1,4 +1,4 @@
-![Emerjoe Rosas — I build products. And keep them running.](assets/header.svg)
+![Emerjoe Rosas — I build products. And keep them running.](assets/header.svg?v=2)
 
 I'm a product-minded full-stack software engineer based in the Philippines, with 3+ years building and operating production software. I own work from product decisions and implementation through deployment and ongoing operations.
 
