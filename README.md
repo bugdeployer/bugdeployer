@@ -1,46 +1,39 @@
-![Emerjoe Rosas — Useful software, from idea to production.](assets/header.svg)
+![Emerjoe Rosas — I build products. And keep them running.](assets/header.svg)
 
-I'm a full-stack engineer based in the Philippines. I build SaaS products, developer tools, and open-source software across web, backend, and Android.
+I'm a product-minded full-stack software engineer based in the Philippines, with 3+ years building and operating production software. I own work from product decisions and implementation through deployment and ongoing operations.
 
-[Portfolio](https://jrosas.vercel.app) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/retamayo19/) &nbsp; · &nbsp; [X / Twitter](https://x.com/bug_deployer) &nbsp; · &nbsp; [Email](mailto:emerjoerosas01@gmail.com)
+[Portfolio](https://jrosas.vercel.app) · [About](https://jrosas.vercel.app/about) · [LinkedIn](https://linkedin.com/in/retamayo19) · [X](https://x.com/bug_deployer)
 
----
+## Open source
 
-## What I'm building
+### [Horus](https://github.com/bugdeployer/Horus)
 
-### [Horus ↗](https://github.com/bugdeployer/Horus)
-**See what your code actually did.**
+A runtime inspection tool that captures execution evidence for developers and coding agents through MCP. Inspect selected function calls, values, checkpoints, and failures across Python, JavaScript, TypeScript, and PHP.
 
-A local runtime inspection workspace for Python, JavaScript, TypeScript, and PHP. Explore captured calls, values, checkpoints, and failures—and give coding agents access to the same evidence through MCP.
+Built with Next.js, TypeScript, Python/FastAPI, and SQLite. SDKs are available on [npm](https://www.npmjs.com/package/@bug_deployer/horus-sdk), [PyPI](https://pypi.org/project/horus-sdk/), and [Packagist](https://packagist.org/packages/bugdeployer/horus-sdk).
 
-`TypeScript` `Next.js` `Python` `FastAPI` `SQLite` `MCP`
+### [Multiplexr](https://github.com/bugdeployer/Multiplexr)
 
-[Explore the project](https://github.com/bugdeployer/Horus) · [JavaScript SDK](https://www.npmjs.com/package/@bug_deployer/horus-sdk) · [Python SDK](https://pypi.org/project/horus-sdk/) · [PHP SDK](https://github.com/bugdeployer/horus-sdk-php)
+An Android app for organizing, playing, and reading a personal media library. Supports video, music, audiobooks, ebooks, and comics, with saved progress, themes, and permissioned JavaScript plugins.
 
-### [Multiplexr ↗](https://github.com/bugdeployer/Multiplexr)
-**Your media, in one Android library.**
+Built with Flutter, Dart, Kotlin, Media3, SQLite, and QuickJS. [Releases](https://github.com/bugdeployer/Multiplexr/releases) · [Plugin template](https://github.com/bugdeployer/multiplexr-plugin-template)
 
-Organize movies, music, audiobooks, ebooks, and comics. Play or read them with saved progress, then extend the experience with themes and permissioned JavaScript plugins.
+## Production work
 
-`Flutter` `Dart` `Kotlin` `Media3` `SQLite` `QuickJS`
+**[Chaps LMS](https://jrosas.vercel.app/portfolio/chaps-lms)**  
+I designed, built, deployed, and continue to operate a learning platform serving **4,691 student accounts**. I own ongoing feature delivery, deployments, production debugging, and maintenance.
 
-[Explore the project](https://github.com/bugdeployer/Multiplexr) · [Download](https://github.com/bugdeployer/Multiplexr/releases) · [Build a plugin](https://github.com/bugdeployer/multiplexr-plugin-template)
+**[KeyFleet](https://jrosas.vercel.app/portfolio/keyfleet)**  
+I co-founded a B2B car-rental management SaaS, contributing full-stack product features and technical direction. I also owned server setup, CI/CD, deployment, and production operations.
 
-## Beyond open source
+## Stack
 
-- **Chaps LMS** — Lead developer of a production learning platform serving **4,691 student accounts**. I designed, built, deployed, and continue to operate it.
-- **KeyFleet** — Co-founded a B2B car-rental management SaaS, contributing full-stack features, technical direction, and infrastructure.
-- **End-to-end engineering** — 3+ years working across product features, databases, deployments, production debugging, and maintenance.
-
-## Tools I work with
-
-| Area | Stack |
+| Area | Tools |
 | :--- | :--- |
-| Web & product | TypeScript · React · Next.js · PHP · Laravel · Filament |
-| Backend & data | Python · FastAPI · PostgreSQL · MySQL · Redis · SQLite |
-| Mobile | Flutter · Dart · Kotlin |
-| Infrastructure | Docker · Linux · AWS · CI/CD |
+| Product engineering | TypeScript, React, Next.js, PHP, Laravel, Python, FastAPI |
+| Mobile | Flutter, Dart, Kotlin |
+| Data & infrastructure | PostgreSQL, MySQL, SQLite, Redis, Docker, Linux, AWS, CI/CD |
 
 ---
 
-**Have something useful to build?** [Let's talk.](mailto:emerjoerosas01@gmail.com)
+[Contact](mailto:emerjoerosas01@gmail.com) · [jrosas.vercel.app](https://jrosas.vercel.app)
