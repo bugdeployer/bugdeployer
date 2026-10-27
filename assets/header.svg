@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Emerjoe Rosas — Full-stack engineer and open-source builder</title>
-<desc id="desc">Building useful software from idea to production, across SaaS, developer tools, and Android.</desc>
-<rect width="1200" height="300" rx="14" fill="#101820"/>
-<path d="M0 292H1200" stroke="#54d6b5" stroke-width="8"/>
-<g fill="none" stroke="#263d46" stroke-width="1">
-<path d="M880 0V292M950 0V292M1020 0V292M1090 0V292M1160 0V292M840 70H1200M840 140H1200M840 210H1200"/>
-</g>
-<g font-family="Arial, Helvetica, sans-serif">
-<text x="54" y="60" font-size="17" letter-spacing="3" fill="#54d6b5">EMERJOE ROSAS / BUGDEPLOYER</text>
-<text x="50" y="123" font-size="48" font-weight="700" fill="#f5f8fa">Useful software.</text>
-<text x="50" y="180" font-size="48" font-weight="700" fill="#f5f8fa">From idea to production.</text>
-<text x="54" y="239" font-size="19" fill="#c3d1d8">FULL-STACK ENGINEER  ·  OPEN-SOURCE BUILDER</text>
-</g>
-<g fill="none" stroke="#54d6b5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-<path d="M957 98l-42 42 42 42M1067 98l42 42-42 42M1030 84l-34 112"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Emerjoe Rosas — I build products. And keep them running.</title>
+<desc id="desc">Full-stack software engineer. A monochrome header matching jrosas.vercel.app.</desc>
+<rect width="1200" height="360" fill="#0c0c0e"/>
+<g font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<rect x="44" y="31" width="27" height="29" rx="4" fill="#1b1b1e" stroke="#343438"/>
+<text x="52" y="53" font-size="24" fill="#ededf0">/</text>
+<text x="86" y="51" font-size="17" font-weight="550" fill="#ededf0">Emerjoe Rosas</text>
+<path d="M237 35V55" stroke="#343438"/>
+<text x="255" y="51" font-size="15" fill="#99999f">Full-Stack Software Engineer</text>
+<path d="M44 82H1156" stroke="#29292e"/>
+<circle cx="48" cy="124" r="3" fill="#99999f"/>
+<text x="63" y="129" font-size="12" letter-spacing="1.8" fill="#99999f">EMERJOE ROSAS / FULL-STACK SOFTWARE ENGINEER</text>
+<text x="42" y="198" font-size="57" font-weight="550" letter-spacing="-2" fill="#ededf0">I build products.</text>
+<text x="42" y="264" font-size="57" font-weight="550" letter-spacing="-2" fill="#99999f">And keep them running.</text>
+<path d="M44 321H1156" stroke="#29292e"/>
 </g>
 </svg>
